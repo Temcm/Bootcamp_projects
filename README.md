@@ -35,5 +35,7 @@ We learn 10 sprints during 4 months program
 10 Dashboard
 -Looker Studio
 -Tableau Public
+![Badge](https://user-images.githubusercontent.com/124882186/221381351-35facc5d-b62e-422e-8d93-9c4213f20c17.png)
 
-Badge : 
+Badge : ![Badge](https://user-images.githubusercontent.com/124882186/221381365-b1172e57-a658-49d4-81af-bbe5d79caf66.png)
+
